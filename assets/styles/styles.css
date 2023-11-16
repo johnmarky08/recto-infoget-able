@@ -507,10 +507,11 @@ dialog::backdrop {
 }
 
 .about__data {
-  text-align: justify;
+  text-align: center;
 }
 
 .about__description {
+  text-align: justify;
   margin-bottom: 2rem;
 }
 

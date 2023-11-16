@@ -507,7 +507,7 @@ dialog::backdrop {
 }
 
 .about__data {
-  text-align: center;
+  text-align: justify;
 }
 
 .about__description {
